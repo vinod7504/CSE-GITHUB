@@ -1,11 +1,9 @@
 
 <html>
-  <head>
-    About our class
+  <head>.
   </head>
 <P> hello vinod <p>
-  <body>
-    ...
+  <body>Thanks for adding me into the group 😊
   </body>
   </html>
   
